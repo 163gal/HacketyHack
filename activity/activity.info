@@ -1,7 +1,7 @@
 [Activity]
-name = HacketyHack 
-service_name = org.hackety.hack
+name = HacketyHack
+activity_version = 1
+bundle_id = org.hackety.hack
+exec = sugar-activity activity.HacketyHack
 icon = activity-hackety
-activity_version = 1 
-exec = ./hacketyhack 
 license = BSD 
